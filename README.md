@@ -1,4 +1,4 @@
-horizontal mouse scrolling 
+very simple but very necessary horizontal mouse scrolling 
 
 Everything should be clear here. Just paste the js code and insert your div and class parameters.
 
